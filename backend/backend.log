@@ -1,4 +1,0 @@
-🚀 KK Waterplant API running on port 5000
-📍 Health check: http://localhost:5000/api/health
-✅ MongoDB connected successfully
-[0mGET /api/health [32m200[0m 2.571 ms - 95[0m
